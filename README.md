@@ -1,4 +1,4 @@
-## Hi there 👋 my name is Luis and i have fun at Pograming 
+## Hi there 👋 my name is Luis and i have fun at Pogramming 
 
 <!--
 **ryzelo/ryzelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
